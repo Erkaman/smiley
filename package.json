@@ -1,0 +1,35 @@
+{
+  "name": "smiley",
+  "version": "0.0.1",
+  "description": ":^)",
+  "main": "index.js",
+  "dependencies": {},
+  "scripts": {
+    "start": "budo --live --open smiley.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Erkaman/smiley.git"
+  },
+  "keywords": [
+    "smiley",
+    ":^)",
+    "regl"
+  ],
+  "author": "Eric Arnebäck",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Erkaman/smiley/issues"
+  },
+  "homepage": "https://github.com/Erkaman/smiley",
+  "devDependencies": {
+    "budo": "^9.0.0",
+    "canvas-fit": "^1.5.0",
+    "gl-mat4": "^1.1.4",
+    "ndpack-image": "^2.0.0",
+    "normals": "^1.1.0",
+    "regl": "^1.0.0",
+    "resl": "^1.0.2",
+    "standard": "^8.0.0-beta.5"
+  }
+}
