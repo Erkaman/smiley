@@ -2,7 +2,7 @@
 
 :^) :^) :^) :^) :^) :^) :^) :^) :^) [:^) :^) :^) :^)
 :^)](https://github.com/mikolalysenko/regl). :^) :^) :^) :^) :^) :^)
-[:^) :^) :^)](http://erkaman.github.io/smiley/demo.html).  :^) :^) :^)
+[:^) :^) :^)](http://erkaman.github.io/smiley/smiley.html).  :^) :^) :^)
 :^) :^) :^) :^) :^) :^) :^) :^) :^) :^) :^) :^) :^) :^) :^)
 
 ![Animated](images/smiley.gif)
